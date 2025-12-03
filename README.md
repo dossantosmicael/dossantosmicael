@@ -19,5 +19,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=dossantosmicael&show_icons=true" />
+  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=dossantosmicael&show_icons=true" />
 </p>
