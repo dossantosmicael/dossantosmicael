@@ -16,5 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dossantosmicael&layout=compact&show_icons=true" alt="dossantosmicael" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=dossantosmicael&show_icons=true" alt="dossantosmicael" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=dossantosmicael&show_icons=true" alt="dossantosmicael" /></p>
 
